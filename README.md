@@ -1,8 +1,6 @@
 <!--![](https://komarev.com/ghpvc/?username=gbennnn&color=blue&style=plastic)--> 
 ### Hi, there 👋 I’m Beno
-I am a Computer Science student with a primary interest in web and mobile app development and Cyber Security. I am consistently active in enhancing my understanding and skills in this field.
-
-Currently, I am studying web and mobile app development, cybersecurity, machine learning and artificial intelligence. With a dedication to achieving higher accomplishments, I am continually seeking opportunities to broaden my experience in the professional world. Discover more on my <a href="https://beno-personal-website.vercel.app/">personal website!</a>
+I am a Computer Science student with experience in web application and AI-based system development, as well as research related to algorithms and data processing. Able to build websites using PHP, Python, and apply machine learning concepts to real-world cases. Committed to continuously improving skills in Web Development, Machine Learning, and Cybersecurity to contribute to creating secure, efficient, and impactful systems in the professional world. Discover more on my <a href="www.iambeno.site">personal website!</a>
 
 #### Connect with me
 <a href="https://x.com/iambeno_?t=o9BJnyIRY5u4oMiyUJTOTg&s=08">![image](https://github.com/user-attachments/assets/cdd9c568-d9b8-465d-92cc-424da1f2bec1)</a>
