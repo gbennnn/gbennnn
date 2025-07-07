@@ -1,6 +1,6 @@
 <!--![](https://komarev.com/ghpvc/?username=gbennnn&color=blue&style=plastic)--> 
 ### Hi, there 👋 I’m Beno
-I am a Computer Science student with experience in web application and AI-based system development, as well as research related to algorithms and data processing. Able to build websites using PHP, Python, and apply machine learning concepts to real-world cases. Committed to continuously improving skills in Web Development, Machine Learning, and Cybersecurity to contribute to creating secure, efficient, and impactful systems in the professional world. Discover more on my <a href="www.iambeno.site">personal website!</a>
+I am a Computer Science student with experience in web application and AI-based system development, as well as research related to algorithms and data processing. Able to build websites using PHP, Python, and apply machine learning concepts to real-world cases. Committed to continuously improving skills in Web Development, Machine Learning, and Cybersecurity to contribute to creating secure, efficient, and impactful systems in the professional world. Discover more on my [personal website!](https://www.iambeno.site)
 
 #### Connect with me
 <a href="https://x.com/iambeno_?t=o9BJnyIRY5u4oMiyUJTOTg&s=08">![image](https://github.com/user-attachments/assets/cdd9c568-d9b8-465d-92cc-424da1f2bec1)</a>
